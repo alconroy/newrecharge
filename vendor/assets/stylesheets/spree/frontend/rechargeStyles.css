@@ -21,7 +21,10 @@
 #search-bar FORM{
 	margin-right:0;
     padding:0;
-	}
+	}	
+	#search-bar FORM INPUT.form-control{
+		width:24em;
+		}
 #header A.btn{
 	float:right;
     padding:0 12px 0.05em 0;
@@ -303,9 +306,6 @@
 		display:none;
 		margin:0.5em 0.1em;
 		}
-		#search-bar FORM INPUT.form-control{
-			width:24em;
-			}
 	#header .contact-button{
 		position:static;
 		}
