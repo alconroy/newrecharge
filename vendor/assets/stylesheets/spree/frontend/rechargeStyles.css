@@ -303,6 +303,9 @@
 		display:none;
 		margin:0.5em 0.1em;
 		}
+		#search-bar FORM INPUT.form-control{
+			width:24em;
+			}
 	#header .contact-button{
 		position:static;
 		}
