@@ -652,6 +652,9 @@ footer{
 				#footer-bottom UL LI:last-child{
 					border-right:none;
 					}
+					#footer-bottom UL LI IMG{
+						max-width:12em;
+						}
 					#footer-bottom UL LI A{
 						color:#949494!important;
 						font-size:1em;
