@@ -142,6 +142,14 @@ h1.product-title{
 		    margin:15px auto 30px auto;
 		    width:20px;
 			}
+	#header .contact-button{
+		position:static;
+		}
+		#header .contact-button A.btn{
+			position:absolute;
+			right:1em;
+			top:0;
+			}
 	#header .main-menu #main-nav-bar UL{
 		float:left;
 		width:100%;
