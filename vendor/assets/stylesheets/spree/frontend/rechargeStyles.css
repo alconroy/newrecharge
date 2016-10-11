@@ -154,7 +154,7 @@ h1.product-title{
 			width:11em;
 			}
 			#header .contact-button A.btn SPAN{
-				background:#ec4445;
+				background:#272727;
 			    color:#ffffff;
 			    float:left;
 			    font-size:1.25em;
@@ -171,14 +171,21 @@ h1.product-title{
 					}
 				#header .contact-button A.btn SPAN.glyphicon{
 					background:#ffffff;
-				    border:0.3em solid #ec4445;
+				    border:0.3em solid #272727;
 				    border-radius:2.5em;
-				    color:#ec4445;
+				    color:#272727;
 				    float:left;
 				    font-size:1.4em;
 				    margin:-1px 0 0 -1em;
 				    padding:0.3em;
 				    width:auto;
+					}
+			#header .contact-button A.btn:hover SPAN{
+				background:#686868;
+				}
+				#header .contact-button A.btn:hover SPAN.glyphicon{
+				    border:0.3em solid #686868;
+				    color:#686868;
 					}
 	#header .main-menu #main-nav-bar UL{
 		float:left;
